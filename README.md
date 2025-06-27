@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) 📊
+# Exploratory Data Analysis on Fitness Tracker Data 📊
 
 This project focuses on performing Exploratory Data Analysis using Python. EDA is a crucial first step in data science, helping us understand the dataset's structure, patterns, and potential anomalies.
 
